@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantum Computers</title>
+    <!-- Link to the external CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Quantum Computers: Revolutionizing the Future</h1>
+    </header>
+    <main>
+        <section>
+            <p>
+                Quantum computers are a groundbreaking technology that leverages the principles of quantum mechanics
+                to solve problems that are impossible or impractical for classical computers to handle.
+                Their capabilities are expected to bring transformative changes across industries, including healthcare,
+                cryptography, and artificial intelligence.
+            </p>
+            <img src="https://miro.medium.com/v2/resize:fit:1200/0*W-kzLAjwiJPNiBOI.png" alt="Quantum Computer">
+        </section>
+
+        <section>
+            <p>
+                Unlike classical computers that use bits as the basic unit of information, quantum computers use qubits.
+                Qubits can exist in a state of superposition, enabling them to perform computations much faster and
+                more efficiently than classical systems.
+            </p>
+            <img src="https://miro.medium.com/v2/resize:fit:612/1*0G2D-jdym2E347urKfFMeQ.jpeg" alt="Qubit Representation">
+        </section>
+
+        <section>
+            <p>
+                With the potential to solve complex problems in seconds that would take classical computers millions of
+                years, quantum computers are poised to revolutionize fields like drug discovery, financial modeling,
+                and logistics optimization.
+            </p>
+            <img src="https://drgdiaz.com/quantu1.jpg" alt="Applications of Quantum Computing">
+        </section>
+
+        <section>
+            <p>
+                Despite their potential, quantum computers are still in their infancy. Researchers worldwide are working
+                to overcome challenges such as error correction and scalability to make this technology more accessible
+                and impactful for everyday applications.
+            </p>
+            <img src="https://informationage-production.s3.amazonaws.com/uploads/2024/09/GettyImages-2156615862.jpg" alt="Quantum Computing Challenges">
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 - Quantum Computing Revolution</p>
+    </footer>
+</body>
+</html>
